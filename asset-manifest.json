@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/geetajeeru/redux-saga/static/css/main.cd245e06.chunk.css",
+    "main.js": "/geetajeeru/redux-saga/static/js/main.672a9bcd.chunk.js",
+    "main.js.map": "/geetajeeru/redux-saga/static/js/main.672a9bcd.chunk.js.map",
+    "runtime-main.js": "/geetajeeru/redux-saga/static/js/runtime-main.94575cee.js",
+    "runtime-main.js.map": "/geetajeeru/redux-saga/static/js/runtime-main.94575cee.js.map",
+    "static/js/2.2e6ef80f.chunk.js": "/geetajeeru/redux-saga/static/js/2.2e6ef80f.chunk.js",
+    "static/js/2.2e6ef80f.chunk.js.map": "/geetajeeru/redux-saga/static/js/2.2e6ef80f.chunk.js.map",
+    "index.html": "/geetajeeru/redux-saga/index.html",
+    "precache-manifest.c9da04d255f6ebd1247568c35aef10ad.js": "/geetajeeru/redux-saga/precache-manifest.c9da04d255f6ebd1247568c35aef10ad.js",
+    "service-worker.js": "/geetajeeru/redux-saga/service-worker.js",
+    "static/css/main.cd245e06.chunk.css.map": "/geetajeeru/redux-saga/static/css/main.cd245e06.chunk.css.map",
+    "static/js/2.2e6ef80f.chunk.js.LICENSE.txt": "/geetajeeru/redux-saga/static/js/2.2e6ef80f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.94575cee.js",
+    "static/js/2.2e6ef80f.chunk.js",
+    "static/css/main.cd245e06.chunk.css",
+    "static/js/main.672a9bcd.chunk.js"
+  ]
+}
